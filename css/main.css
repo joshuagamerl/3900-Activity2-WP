@@ -49,11 +49,9 @@ id selectors
 }
 
 #Zelda1 {
-	
 	width: 500px;
 	height: 450px;
 	padding: 15px;
-	margin-right: 250px;
 	
 	
 }
@@ -67,7 +65,7 @@ id selectors
 	width: 350px;
 	height: 450px;
 	padding: 15px;
-	margin-left: 250px;
+	margin-left: 450px;
 	
 }
 
