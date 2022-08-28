@@ -1,0 +1,81 @@
+
+p {
+	text-align:center;
+	font-size:20px;
+}
+
+h1 {
+	text-align:center;
+	
+}
+
+h2 {
+	text-align:center;
+	
+}
+
+h3 {
+	text-align:center;
+	font-style:italic;
+}
+
+#me {
+	display:block;
+    margin: 0 auto;
+	width: 400px;
+	height: 450px;
+}
+
+body {
+	background-color:lightblue;
+}
+
+.line {
+	stroke:#FFFFFF;
+	stroke-linecap:round;
+	stroke-width:20;
+	
+}
+
+#Zelda1 {
+	
+	width: 500px;
+	height: 450px;
+	padding: 15px;
+	margin-right: 250px;
+	
+	
+}
+
+#Zelda1:hover {
+	transform: scaleX(-1);
+}
+
+#Ellie1 {
+	
+	width: 350px;
+	height: 450px;
+	padding: 15px;
+	margin-left: 250px;
+	
+}
+
+#Ellie1:hover {
+	transform: scaleX(-1);
+}
+
+#Ellie2 {
+	
+	width: 350px;
+	height: 450px;
+	display:block;
+	margin: 0 auto;
+
+}
+
+#Zelda2 {
+	
+	width: 400px;
+	height: 450px;
+	display:block;
+	margin: 0 auto;
