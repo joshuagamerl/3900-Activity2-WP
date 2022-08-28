@@ -1,4 +1,18 @@
 
+/*  
+main.css Stylesheet for 
+3900-Activity2
+Joshua Gamerl
+8/28/2022
+*/
+
+
+
+/*  
+Type selectors
+*/
+
+
 p {
 	text-align:center;
 	font-size:20px;
@@ -19,22 +33,19 @@ h3 {
 	font-style:italic;
 }
 
+body {
+	background-color:lightblue;
+}
+
+/*  
+id selectors
+*/
+
 #me {
 	display:block;
     margin: 0 auto;
 	width: 400px;
 	height: 450px;
-}
-
-body {
-	background-color:lightblue;
-}
-
-.line {
-	stroke:#FFFFFF;
-	stroke-linecap:round;
-	stroke-width:20;
-	
 }
 
 #Zelda1 {
@@ -79,3 +90,15 @@ body {
 	height: 450px;
 	display:block;
 	margin: 0 auto;
+}
+
+/*  
+Class selectors
+*/
+
+.line {
+	stroke:#FFFFFF;
+	stroke-linecap:round;
+	stroke-width:20;
+	
+}
